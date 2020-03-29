@@ -1,0 +1,10 @@
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\bin\Debug\CadastroBancoAccessFoto.exe.config
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\bin\Debug\clientes.mdb
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\bin\Debug\CadastroBancoAccessFoto.exe
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\bin\Debug\CadastroBancoAccessFoto.pdb
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\obj\Debug\CadastroBancoAccessFoto.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\obj\Debug\CadastroBancoAccessFoto.Form1.resources
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\obj\Debug\CadastroBancoAccessFoto.Properties.Resources.resources
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\obj\Debug\CadastroBancoAccessFoto.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\obj\Debug\CadastroBancoAccessFoto.exe
+C:\Users\Adrian\Desktop\C#\CadastroBancoAccessFoto\CadastroBancoAccessFoto\obj\Debug\CadastroBancoAccessFoto.pdb
